@@ -1,0 +1,37 @@
+.container{
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    border: 1px solid orange;
+}
+.break{
+    width: 100%;
+}
+.box{
+    height: 4rem;
+    border: 1px solid grey;
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 2rem;
+}
+.resultBox{
+    height: 4rem;
+    font-size: 2rem;
+    width:100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: right 5px;
+}
+
+.op{
+    background-color:aqua;
+}
+
+.clear{
+    background-color:red;
+}
+

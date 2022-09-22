@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol></ol>
+    
+    <script>
+        
+    let nevek=["asd1", "asd2", "asd3"]
+    let sad=""
+    for(let i=0;i<nevek.length;i++){
+        sad+=`<li>index: ${i} érték: ${nevek[i]}</li>`
+    }
+    document.querySelector(`ol`).innerHTML=sad
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,60 @@
+.retek{
+    width: 500px;
+    color: blue;
+    background-color:yellow;
+    border-width: solid 5px;
+    padding:10px;
+    border:solid 10px blue;
+    margin: 0 auto;
+}
+
+.retekasd{
+padding: 10px;
+background-color: blue;
+width: 530px;
+margin: 0 auto;
+border:solid 10px lightblue;
+}
+
+.gane{
+    display: flex;
+    width: 500px;
+    height: 250px;
+    justify-content:space-between;
+    align-items: center;
+    list-style: none;
+    margin: 0 auto;
+    background-color: blue;
+    border: 10px solid white;
+}
+
+.fos{
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+}
+
+.gane2{
+    border: 10px solid white;
+    display: flex;
+    width: 500px;
+    height: 250px;
+    justify-content:flex-end;
+    align-items:center;
+    list-style: none;
+    margin: 0 auto;
+    background-color: blue;
+}
+
+.gane2{
+    border: 10px solid white;
+    display: flex;
+    width: 500px;
+    height: 250px;
+    justify-content:flex-end;
+    align-items:center;
+    list-style: none;
+    margin: 0 auto;
+    background-color: blue;
+}
+
